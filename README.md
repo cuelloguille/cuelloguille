@@ -27,10 +27,7 @@ Soy Guillermo Cuello
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-📊 Estadísticas de GitHub
 
-<table border="0" align="center"> <tr> <td width="50%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GuillermoCuello&theme=cobalt&show_icons=true&count_private=true"/> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillermoCuello&theme=dark&hide_border=true" alt="streak"/> </td> <td width="50%" align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GuillermoCuello&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/> </td> </tr> </table> <br>
-<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
 
 😄 ¡Conectemos!
 <p align="center"> <a href="https://www.linkedin.com/in/guillermo-cuello-4a6625394/" target="_blank"> <img alt="LinkedIn" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/> </a> </p>
