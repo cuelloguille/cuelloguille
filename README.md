@@ -1,15 +1,17 @@
-👋 ¡Hola!
-Soy Guillermo Cuello
-💻 Sobre mí
+👋 Hello!
+I'm Guillermo Cuello
 
-🤔 Apasionado por la tecnología y el aprendizaje constante.
+💻 About Me
 
-🎓 Estudiante de Ingeniería en Computación / Ciencias de la Computación.
+🤔 Passionate about technology and continuous learning.
 
-🚀 Me gusta crear proyectos, experimentar con herramientas nuevas y mejorar como desarrollador día a día.
+🎓 Software Development Graduate.
+
+🚀 I enjoy creating projects, experimenting with new tools, and improving as a developer every day.
 
 <br>
-💻 Developer Full Stack
+
+💻 Full Stack Developer
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/HTML-05122A?style=for-the-badge&logo=html5" height="25"/> 
@@ -27,13 +29,18 @@ Soy Guillermo Cuello
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+😄 Let's Connect!
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/guillermo-cuello-4a6625394/" target="_blank">
+    <img alt="LinkedIn" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/>
+  </a>
+</p>
 
-😄 ¡Conectemos!
-<p align="center"> <a href="https://www.linkedin.com/in/guillermo-cuello-4a6625394/" target="_blank"> <img alt="LinkedIn" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/> </a> </p>
-📍 Contador de visitas
+📍 Visitor Counter
 
-<p align="center"> <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake animation"> </p>
+<p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
 
-Última edición: 2025
-
+Last updated: 2025
