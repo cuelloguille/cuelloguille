@@ -32,7 +32,7 @@ Soy Guillermo Cuello
 😄 ¡Conectemos!
 <p align="center"> <a href="https://www.linkedin.com/in/guillermo-cuello-4a6625394/" target="_blank"> <img alt="LinkedIn" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/> </a> </p>
 📍 Contador de visitas
-<p align="center"> <img src="https://profile-counter.glitch.me/GuillermoCuello/count.svg" /> </p>
+
 <p align="center"> <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake animation"> </p>
 
 Última edición: 2025
