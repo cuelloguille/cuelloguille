@@ -171,7 +171,7 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="[https://www.linkedin.com/in/dhanola/](https://www.linkedin.com/in/guillermo-cuello-4a6625394/?trk=opento_sprofile_topcard)" target="_blank">
+<a href="https://www.linkedin.com/in/guillermo-cuello-4a6625394/?trk=opento_sprofile_topcard" target="_blank">
   <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
   
