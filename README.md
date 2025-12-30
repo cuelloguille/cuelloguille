@@ -37,10 +37,4 @@ I'm Guillermo Cuello
   </a>
 </p>
 
-📍 Visitor Counter
-
-<p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
 Last updated: 2025
